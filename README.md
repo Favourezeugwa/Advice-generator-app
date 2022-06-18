@@ -10,8 +10,8 @@ This is an app used to generate a new piece of advice by clicking the dice icon.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Favourezeugwa/Advice-generator-app)
-- Live Site URL: [Add live site URL here](https://favourezeugwa.github.io/Advice-generator-app/)
+- Solution URL: [solution URL](https://github.com/Favourezeugwa/Advice-generator-app)
+- Live Site URL: [see live demo](https://favourezeugwa.github.io/Advice-generator-app/)
 
 ## My process
 
@@ -50,8 +50,8 @@ const adviceSlip = async () => { {
 
 - GitHub: [@Favourezeugwa](https://github.com/Favourezeugwa)
 - LinkedIn: [Favour Amarachi Ezeugwa](https://www.linkedin.com/in/favour-amarachi-ezeugwa-a5bb31149/)
-- Twitter - [@yourusername](https://twitter.com/Favour_ezeugwa)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Favourezeugwa)
+- Twitter - [@Favour_ezeugwa](https://twitter.com/Favour_ezeugwa)
+- Frontend Mentor - [@favourezeugwa](https://www.frontendmentor.io/profile/Favourezeugwa)
 
 ## Show your support
 
