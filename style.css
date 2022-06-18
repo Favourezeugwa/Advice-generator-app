@@ -1,2 +1,84 @@
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  background-color: rgb(36, 41, 56);
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+h4 {
+  font-size: 12px;
+  color: #70e08d;
+}
+
+p {
+  font-size: 22px;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 100px auto;
+  padding: 40px 10px 60px 10px;
+  background-color: rgba(66, 70, 82, 0.918);
+  width: 90%;
+  max-width: 375px;
+  border-radius: 10px;
+  border: 1px solid rgba(66, 70, 82, 0.918);
+}
+
+.dice-click {
+  position: absolute;
+  bottom: -25px;
+  left: calc(50% - 31px);
+  background: #70e08d;
+  border-radius: 150%;
+  border: 1px solid #70e08d;
+  width: 60px;
+  height: 60px;
+}
+
+.dice-click:hover {
+  cursor: pointer;
+  background-color: #7ff79f;
+  box-shadow: 0px 0px 20px 0px #7ff79f;
+}
+
+.dice {
+  margin-top: 17px;
+}
+
+footer {
+  padding-top: 70px;
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    margin: 150px auto;
+    padding: 40px 30px 60px 30px;
+    max-width: 450px;
+  }
+
+  .dice-click {
+    left: calc(50% - 27px);
+  }
+
+  footer {
+    padding-top: 50px;
+  }
+}
