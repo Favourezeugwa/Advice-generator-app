@@ -58,16 +58,18 @@ p {
 }
 
 footer {
-  padding-top: 70px;
-  padding-bottom: 5px;
-  font-size: 11px;
+  position: fixed;
   text-align: center;
+  bottom: 0;
+  width: 100%;
+  font-size: 11px;
 }
 
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(228, 80%, 52%);
 }
 
+/* Desktop screen */
 @media screen and (min-width: 768px) {
   .container {
     margin: 150px auto;
@@ -80,6 +82,6 @@ footer {
   }
 
   footer {
-    padding-top: 50px;
+    width: 100%;
   }
 }
