@@ -6,7 +6,7 @@ This is an app used to generate a new piece of advice by clicking the dice icon.
 
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](./design/desktop.snip.png)
 
 ### Links
 
