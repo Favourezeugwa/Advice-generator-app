@@ -1,6 +1,6 @@
-# Advice generator app solution
+# Advice generator app
 
-This is an app used to generate a new piece of advice by clicking the dice icon. As a user, you can View the optimal layout for the app depending on your device's screen size (reponsive to all screen sizes)
+This is an app used to generate a new piece of advice by clicking the dice icon. As a user, you can View the optimal layout for the app depending on your device's screen size (reponsive to all screen sizes).
 
 ## Overview
 
@@ -10,8 +10,8 @@ This is an app used to generate a new piece of advice by clicking the dice icon.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Favourezeugwa/Advice-generator-app)
+- Live Site URL: [Add live site URL here](https://favourezeugwa.github.io/Advice-generator-app/)
 
 ## My process
 
@@ -21,6 +21,8 @@ This is an app used to generate a new piece of advice by clicking the dice icon.
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- Javascript(ES6)
+- API
 
 ### Proud of
 
@@ -44,6 +46,17 @@ const adviceSlip = async () => { {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+👤 **Favour Amarachi Ezeugwa**
+
+- GitHub: [@Favourezeugwa](https://github.com/Favourezeugwa)
+- LinkedIn: [Favour Amarachi Ezeugwa](https://www.linkedin.com/in/favour-amarachi-ezeugwa-a5bb31149/)
+- Twitter - [@yourusername](https://twitter.com/Favour_ezeugwa)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Favourezeugwa)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Frontend mentor
